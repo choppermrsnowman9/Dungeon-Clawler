@@ -239,4 +239,4 @@ Dungeon Clawler is offered as a **full free version** with all features and upda
 Don't miss out on the fun! Download Dungeon Clawler today and embark on your roguelike adventure!
 
 ---
-**Last updated:** 2026-10-03 15:01:10 UTC
+**Last updated:** 2026-10-03 18:54:51 UTC
